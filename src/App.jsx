@@ -15,6 +15,7 @@ function App() {
     <div className="App">
       <h1>Data Table</h1>
       <DataTable data={data} />
+      
     </div>
   );
 }
